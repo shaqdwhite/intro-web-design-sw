@@ -1,0 +1,90 @@
+/* =========== ABOUT ME SECTION =========== */
+/* Use this to style the about me image */
+.sidebar-my-image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+
+}
+
+.sidebar-my-name{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.sidebar-about-me{
+    text-align: center;
+}
+
+
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+    
+  
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+      display: inline-block;
+      color: white;
+      padding: 10px;
+      margin: 10px;
+      background-color: darkred;
+      border: 3px;
+
+}
+
+
+/* =========== CTS SECTION =========== */
+
+/* CTS Image Logo */
+.sidebar-cts-logo{
+    width: 100%;
+}
+
+/* CTS LINK */
+.sidebar-cts-link{
+    display: block;
+    background-color: darkred;
+    color: white;
+    border: 3px solid black;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+
+}
+
+
+/* =========== TAGS SECTION =========== */
+
+.sidebar-tag {
+    display: inline-block;
+    padding: 12px;
+    margin: 3px;
+    color: white;
+    background-color: darkred;
+
+}
+
+
+.sidebar-tag:hover {
+    background-color: black;
+    color: blue;
+
+}
+
+.sidebar-title{
+    font-weight: bold;
+    text-align: center;
+}
+
+.sidebar-paragraph{
+    text-align: center;
+}
+
